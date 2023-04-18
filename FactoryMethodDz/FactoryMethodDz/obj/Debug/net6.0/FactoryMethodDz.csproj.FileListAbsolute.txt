@@ -1,0 +1,15 @@
+D:\RiderProjects\FactoryMethodDz\FactoryMethodDz\bin\Debug\net6.0\FactoryMethodDz.exe
+D:\RiderProjects\FactoryMethodDz\FactoryMethodDz\bin\Debug\net6.0\FactoryMethodDz.deps.json
+D:\RiderProjects\FactoryMethodDz\FactoryMethodDz\bin\Debug\net6.0\FactoryMethodDz.runtimeconfig.json
+D:\RiderProjects\FactoryMethodDz\FactoryMethodDz\bin\Debug\net6.0\FactoryMethodDz.dll
+D:\RiderProjects\FactoryMethodDz\FactoryMethodDz\bin\Debug\net6.0\FactoryMethodDz.pdb
+D:\RiderProjects\FactoryMethodDz\FactoryMethodDz\obj\Debug\net6.0\FactoryMethodDz.csproj.AssemblyReference.cache
+D:\RiderProjects\FactoryMethodDz\FactoryMethodDz\obj\Debug\net6.0\FactoryMethodDz.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\FactoryMethodDz\FactoryMethodDz\obj\Debug\net6.0\FactoryMethodDz.AssemblyInfoInputs.cache
+D:\RiderProjects\FactoryMethodDz\FactoryMethodDz\obj\Debug\net6.0\FactoryMethodDz.AssemblyInfo.cs
+D:\RiderProjects\FactoryMethodDz\FactoryMethodDz\obj\Debug\net6.0\FactoryMethodDz.csproj.CoreCompileInputs.cache
+D:\RiderProjects\FactoryMethodDz\FactoryMethodDz\obj\Debug\net6.0\FactoryMethodDz.dll
+D:\RiderProjects\FactoryMethodDz\FactoryMethodDz\obj\Debug\net6.0\refint\FactoryMethodDz.dll
+D:\RiderProjects\FactoryMethodDz\FactoryMethodDz\obj\Debug\net6.0\FactoryMethodDz.pdb
+D:\RiderProjects\FactoryMethodDz\FactoryMethodDz\obj\Debug\net6.0\FactoryMethodDz.genruntimeconfig.cache
+D:\RiderProjects\FactoryMethodDz\FactoryMethodDz\obj\Debug\net6.0\ref\FactoryMethodDz.dll
